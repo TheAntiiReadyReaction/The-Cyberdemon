@@ -1,0 +1,521 @@
+1614968040338	geckodriver	INFO	Listening on 127.0.0.1:46849
+1614968040346	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiledlCmI4"
+[GFX1-]: glxtest: libpci missing
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614968056242	Marionette	INFO	Listening on port 38787
+1614968056542	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614968056717	Marionette	ERROR	[18] No reply from Marionette:Register
+1614968070527	geckodriver	INFO	Listening on 127.0.0.1:56651
+1614968070618	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileoG0Qk9"
+[GFX1-]: glxtest: libpci missing
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614968095539	Marionette	INFO	Listening on port 39779
+1614968096018	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614968096227	Marionette	ERROR	[15] No reply from Marionette:Register
+1614968109744	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1614968325670	geckodriver	INFO	Listening on 127.0.0.1:35163
+1614968325720	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileRVJSKL"
+[GFX1-]: glxtest: libpci missing
+1614984670403	geckodriver	INFO	Listening on 127.0.0.1:41325
+1614984671396	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilefltTfh"
+[GFX1-]: glxtest: libpci missing
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614984685197	Marionette	INFO	Listening on port 34863
+1614984685481	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614984685579	Marionette	ERROR	[15] No reply from Marionette:Register
+1614986563337	geckodriver	INFO	Listening on 127.0.0.1:41323
+1614986564327	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile21GSoc"
+[GFX1-]: glxtest: libpci missing
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614986582447	Marionette	INFO	Listening on port 46455
+1614986583252	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614986583614	Marionette	ERROR	[15] No reply from Marionette:Register
+1614986594871	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://i-ready.fandom.com/wiki/I-Ready_Wiki line 1374 > injectedScript, line 4: TypeError: f is undefined
+[Child 245, MediaDecoderStateMachine #1] WARNING: Decoder=7fa38b6c8400 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /build/firefox-01oNM9/firefox-85.0.1+build1/dom/media/MediaDecoderStateMachine.cpp:368
+[Child 245, MediaDecoderStateMachine #1] WARNING: Decoder=7fa38b6c8400 Decode error: NS_ERROR_DOM_MEDIA_DEMUXER_ERR (0x806e000c) - virtual RefPtr<MP4Demuxer::InitPromise> mozilla::MP4Demuxer::Init(): No MP4 audio () or video () tracks: file /build/firefox-01oNM9/firefox-85.0.1+build1/dom/media/MediaDecoderStateMachine.cpp:3465
+JavaScript error: , line 0: NotSupportedError: The media resource indicated by the src attribute or assigned media provider object was not suitable.
+[Child 245, MediaDecoderStateMachine #1] WARNING: Decoder=7fa389230c00 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /build/firefox-01oNM9/firefox-85.0.1+build1/dom/media/MediaDecoderStateMachine.cpp:368
+[Child 245, MediaDecoderStateMachine #1] WARNING: Decoder=7fa389230c00 Decode error: NS_ERROR_DOM_MEDIA_DEMUXER_ERR (0x806e000c) - virtual RefPtr<MP4Demuxer::InitPromise> mozilla::MP4Demuxer::Init(): No MP4 audio () or video () tracks: file /build/firefox-01oNM9/firefox-85.0.1+build1/dom/media/MediaDecoderStateMachine.cpp:3465
+[Child 245, MediaDecoderStateMachine #1] WARNING: 7fa37a7c54a0 OpenCubeb() failed to init cubeb: file /build/firefox-01oNM9/firefox-85.0.1+build1/dom/media/AudioStream.cpp:334
+[Child 245, MediaDecoderStateMachine #1] WARNING: Decoder=7fa38abdc800 [OnMediaSinkAudioError]: file /build/firefox-01oNM9/firefox-85.0.1+build1/dom/media/MediaDecoderStateMachine.cpp:3886
+1614986736444	geckodriver	INFO	Listening on 127.0.0.1:52307
+1614986737433	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileugsYyo"
+[GFX1-]: glxtest: libpci missing
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614986763245	Marionette	INFO	Listening on port 33531
+1614986763538	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614986763822	Marionette	ERROR	[15] No reply from Marionette:Register
+1614986773425	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+1614986800924	geckodriver	INFO	Listening on 127.0.0.1:46499
+1614986801942	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile8yUONb"
+[GFX1-]: glxtest: libpci missing
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614986818835	Marionette	INFO	Listening on port 37739
+1614986819068	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614986819172	Marionette	ERROR	[18] No reply from Marionette:Register
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.permutive.com/88ca3150-0f6f-482a-bbc1-2aa3276b3cab-web.js, line 1: Error: TypeError: Network request timed out
+1614986871832	geckodriver	INFO	Listening on 127.0.0.1:42381
+1614986872763	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileszd6VS"
+[GFX1-]: glxtest: libpci missing
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614986893479	Marionette	INFO	Listening on port 44123
+1614986894287	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614986894443	Marionette	ERROR	[18] No reply from Marionette:Register
+JavaScript error: https://cdn.permutive.com/88ca3150-0f6f-482a-bbc1-2aa3276b3cab-web.js, line 1: Error: TypeError: Network request timed out
+JavaScript error: https://cdn.permutive.com/88ca3150-0f6f-482a-bbc1-2aa3276b3cab-web.js, line 1: Error: TypeError: Network request timed out
+1614986956436	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1614987104585	geckodriver	INFO	Listening on 127.0.0.1:56763
+1614987105572	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileSypQgu"
+[GFX1-]: glxtest: libpci missing
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614987127884	Marionette	INFO	Listening on port 34415
+1614987128172	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614987128342	Marionette	ERROR	[15] No reply from Marionette:Register
+1614987138140	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://i-ready.fandom.com/wiki/I-Ready_Wiki line 1374 > injectedScript, line 4: TypeError: f is undefined
+1614987321958	geckodriver	INFO	Listening on 127.0.0.1:37977
+1614987322951	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilekwSpU1"
+[GFX1-]: glxtest: libpci missing
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614987343650	Marionette	INFO	Listening on port 39613
+1614987343841	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614987343945	Marionette	ERROR	[15] No reply from Marionette:Register
+1614987353131	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+1614987377722	geckodriver	INFO	Listening on 127.0.0.1:54891
+1614987377745	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileOfnkVr"
+[GFX1-]: glxtest: libpci missing
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614987392024	Marionette	INFO	Listening on port 41551
+1614987392267	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614987392364	Marionette	ERROR	[15] No reply from Marionette:Register
+1614987402160	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+[Child 1997, MediaDecoderStateMachine #1] WARNING: Decoder=7fe1cd6ddc00 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /build/firefox-01oNM9/firefox-85.0.1+build1/dom/media/MediaDecoderStateMachine.cpp:368
+[Child 1997, MediaDecoderStateMachine #1] WARNING: Decoder=7fe1cd6ddc00 Decode error: NS_ERROR_DOM_MEDIA_DEMUXER_ERR (0x806e000c) - virtual RefPtr<MP4Demuxer::InitPromise> mozilla::MP4Demuxer::Init(): No MP4 audio () or video () tracks: file /build/firefox-01oNM9/firefox-85.0.1+build1/dom/media/MediaDecoderStateMachine.cpp:3465
+JavaScript error: , line 0: NotSupportedError: The media resource indicated by the src attribute or assigned media provider object was not suitable.
+1614987504062	geckodriver	INFO	Listening on 127.0.0.1:60527
+1614987505039	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileYacdKC"
+[GFX1-]: glxtest: libpci missing
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614987520753	Marionette	INFO	Listening on port 37569
+1614987520983	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614987521134	Marionette	ERROR	[15] No reply from Marionette:Register
+1614987529951	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+1614987612932	geckodriver	INFO	Listening on 127.0.0.1:47657
+1614987613920	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileNa8e53"
+[GFX1-]: glxtest: libpci missing
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 773))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 422))
+1614987637195	Marionette	INFO	Listening on port 35737
+1614987637562	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614987637748	Marionette	ERROR	[18] No reply from Marionette:Register
+1614987648191	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.permutive.com/88ca3150-0f6f-482a-bbc1-2aa3276b3cab-web.js, line 1: Error: TypeError: Network request timed out
+JavaScript error: https://cdn.permutive.com/88ca3150-0f6f-482a-bbc1-2aa3276b3cab-web.js, line 1: Error: TypeError: Network request timed out
+JavaScript error: https://cdn.permutive.com/88ca3150-0f6f-482a-bbc1-2aa3276b3cab-web.js, line 1: Error: TypeError: Network request timed out
+JavaScript error: https://cdn.permutive.com/88ca3150-0f6f-482a-bbc1-2aa3276b3cab-web.js, line 1: Error: TypeError: Network request timed out
+JavaScript error: https://cdn.permutive.com/88ca3150-0f6f-482a-bbc1-2aa3276b3cab-web.js, line 1: Error: TypeError: Network request timed out
+JavaScript error: https://i-ready.fandom.com/wiki/I-Ready_Wiki line 1374 > injectedScript, line 4: TypeError: f is undefined
+1614987704013	geckodriver	INFO	Listening on 127.0.0.1:55587
+1614987705024	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileSxiq2H"
+[GFX1-]: glxtest: libpci missing
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614987723882	Marionette	INFO	Listening on port 39235
+1614987724242	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614987724373	Marionette	ERROR	[15] No reply from Marionette:Register
+1614987734507	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.permutive.com/88ca3150-0f6f-482a-bbc1-2aa3276b3cab-web.js, line 1: Error: TypeError: Network request timed out
+JavaScript error: https://cdn.permutive.com/88ca3150-0f6f-482a-bbc1-2aa3276b3cab-web.js, line 1: Error: TypeError: Network request timed out
+JavaScript error: https://cdn.permutive.com/88ca3150-0f6f-482a-bbc1-2aa3276b3cab-web.js, line 1: Error: TypeError: Network request timed out
+JavaScript error: https://cdn.permutive.com/88ca3150-0f6f-482a-bbc1-2aa3276b3cab-web.js, line 1: Error: TypeError: Network request timed out
+JavaScript error: https://cdn.permutive.com/88ca3150-0f6f-482a-bbc1-2aa3276b3cab-web.js, line 1: Error: TypeError: Network request timed out
+1614987782588	geckodriver	INFO	Listening on 127.0.0.1:51773
+1614987783598	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilexp3pbX"
+[GFX1-]: glxtest: libpci missing
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614987805942	Marionette	INFO	Listening on port 42117
+1614987806833	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614987807320	Marionette	ERROR	[18] No reply from Marionette:Register
+1614987826107	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.permutive.com/88ca3150-0f6f-482a-bbc1-2aa3276b3cab-web.js, line 1: Error: TypeError: Network request timed out
+JavaScript error: https://cdn.permutive.com/88ca3150-0f6f-482a-bbc1-2aa3276b3cab-web.js, line 1: Error: TypeError: Network request timed out
+JavaScript error: https://cdn.permutive.com/88ca3150-0f6f-482a-bbc1-2aa3276b3cab-web.js, line 1: Error: TypeError: Network request timed out
+JavaScript error: https://cdn.permutive.com/88ca3150-0f6f-482a-bbc1-2aa3276b3cab-web.js, line 1: Error: TypeError: Network request timed out
+1614987846980	geckodriver	INFO	Listening on 127.0.0.1:53853
+1614987847980	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilejX7W0K"
+[GFX1-]: glxtest: libpci missing
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614987865170	Marionette	INFO	Listening on port 35287
+1614987865660	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614987865788	Marionette	ERROR	[15] No reply from Marionette:Register
+1614987886052	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1614988119329	geckodriver	INFO	Listening on 127.0.0.1:45777
+1614988120303	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileO0850C"
+[GFX1-]: glxtest: libpci missing
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614988135861	Marionette	INFO	Listening on port 41535
+1614988136445	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614988136775	Marionette	ERROR	[15] No reply from Marionette:Register
+1614988146126	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+1614988177927	geckodriver	INFO	Listening on 127.0.0.1:52095
+1614988178968	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileH0YMnO"
+[GFX1-]: glxtest: libpci missing
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614988198255	Marionette	INFO	Listening on port 34749
+1614988198625	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614988198736	Marionette	ERROR	[18] No reply from Marionette:Register
+1614988211139	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+1614988232898	geckodriver	INFO	Listening on 127.0.0.1:41763
+1614988233901	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileckFWYi"
+[GFX1-]: glxtest: libpci missing
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614988248399	Marionette	INFO	Listening on port 38279
+1614988248750	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614988248883	Marionette	ERROR	[15] No reply from Marionette:Register
+1614988260135	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+1614988295276	geckodriver	INFO	Listening on 127.0.0.1:49401
+1614988296280	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile1ds8W7"
+[GFX1-]: glxtest: libpci missing
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614988314123	Marionette	INFO	Listening on port 40953
+1614988314435	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614988314541	Marionette	ERROR	[15] No reply from Marionette:Register
+1614988325126	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: https://cdn.permutive.com/88ca3150-0f6f-482a-bbc1-2aa3276b3cab-web.js, line 1: Error: TypeError: Network request timed out
+JavaScript error: https://cdn.permutive.com/88ca3150-0f6f-482a-bbc1-2aa3276b3cab-web.js, line 1: Error: TypeError: Network request timed out
+JavaScript error: https://cdn.permutive.com/88ca3150-0f6f-482a-bbc1-2aa3276b3cab-web.js, line 1: Error: TypeError: Network request timed out
+JavaScript error: https://cdn.permutive.com/88ca3150-0f6f-482a-bbc1-2aa3276b3cab-web.js, line 1: Error: TypeError: Network request timed out
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.permutive.com/88ca3150-0f6f-482a-bbc1-2aa3276b3cab-web.js, line 1: Error: TypeError: Network request timed out
+1614988488975	geckodriver	INFO	Listening on 127.0.0.1:38441
+1614988489954	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilecEPZEB"
+[GFX1-]: glxtest: libpci missing
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614988505026	Marionette	INFO	Listening on port 44889
+1614988505342	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614988505456	Marionette	ERROR	[18] No reply from Marionette:Register
+1614988513733	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+1614988541622	geckodriver	INFO	Listening on 127.0.0.1:60091
+1614988542587	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile8kqvhn"
+[GFX1-]: glxtest: libpci missing
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614988557745	Marionette	INFO	Listening on port 35627
+1614988558103	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614988558176	Marionette	ERROR	[15] No reply from Marionette:Register
+1614988566958	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+1614988590968	geckodriver	INFO	Listening on 127.0.0.1:51009
+1614988591962	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile3kIUes"
+[GFX1-]: glxtest: libpci missing
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614988608334	Marionette	INFO	Listening on port 39327
+1614988608647	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614988608762	Marionette	ERROR	[18] No reply from Marionette:Register
+JavaScript error: https://cdn.permutive.com/88ca3150-0f6f-482a-bbc1-2aa3276b3cab-web.js, line 1: Error: TypeError: Network request timed out
+JavaScript error: https://cdn.permutive.com/88ca3150-0f6f-482a-bbc1-2aa3276b3cab-web.js, line 1: Error: TypeError: Network request timed out
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1614988919957	geckodriver	INFO	Listening on 127.0.0.1:45193
+1614988920972	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiler1kdZW"
+[GFX1-]: glxtest: libpci missing
+1614989001494	geckodriver	INFO	Listening on 127.0.0.1:46415
+1614989002497	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilejf2dFD"
+[GFX1-]: glxtest: libpci missing
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614989030554	Marionette	INFO	Listening on port 42781
+1614989030779	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614989030910	Marionette	ERROR	[15] No reply from Marionette:Register
+1614989039543	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: https://cdn.permutive.com/88ca3150-0f6f-482a-bbc1-2aa3276b3cab-web.js, line 1: Error: TypeError: Network request timed out
+JavaScript error: https://cdn.permutive.com/88ca3150-0f6f-482a-bbc1-2aa3276b3cab-web.js, line 1: Error: TypeError: Network request timed out
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.permutive.com/88ca3150-0f6f-482a-bbc1-2aa3276b3cab-web.js, line 1: Error: TypeError: Network request timed out
+JavaScript error: https://cdn.permutive.com/88ca3150-0f6f-482a-bbc1-2aa3276b3cab-web.js, line 1: Error: TypeError: Network request timed out
+1614989063372	geckodriver	INFO	Listening on 127.0.0.1:56449
+1614989063401	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileVqpnJn"
+[GFX1-]: glxtest: libpci missing
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614989079811	Marionette	INFO	Listening on port 41197
+1614989080168	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614989080255	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript error: https://cdn.permutive.com/88ca3150-0f6f-482a-bbc1-2aa3276b3cab-web.js, line 1: Error: TypeError: Network request timed out
+JavaScript error: https://cdn.permutive.com/88ca3150-0f6f-482a-bbc1-2aa3276b3cab-web.js, line 1: Error: TypeError: Network request timed out
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.permutive.com/88ca3150-0f6f-482a-bbc1-2aa3276b3cab-web.js, line 1: Error: TypeError: Network request timed out
+JavaScript error: https://cdn.permutive.com/88ca3150-0f6f-482a-bbc1-2aa3276b3cab-web.js, line 1: Error: TypeError: Network request timed out
+JavaScript error: https://cdn.permutive.com/88ca3150-0f6f-482a-bbc1-2aa3276b3cab-web.js, line 1: Error: TypeError: Network request timed out
+1614989131852	geckodriver	INFO	Listening on 127.0.0.1:59685
+1614989131870	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileODvYyV"
+[GFX1-]: glxtest: libpci missing
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614989155063	Marionette	INFO	Listening on port 38589
+1614989155730	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614989155873	Marionette	ERROR	[15] No reply from Marionette:Register
+1614989167298	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.permutive.com/88ca3150-0f6f-482a-bbc1-2aa3276b3cab-web.js, line 1: Error: TypeError: Network request timed out
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1614989187266	geckodriver	INFO	Listening on 127.0.0.1:59769
+1614989188354	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileMrtIgz"
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: glxtest: libpci missing
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614989206764	Marionette	INFO	Listening on port 43127
+1614989207221	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614989207294	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1614989237379	geckodriver	INFO	Listening on 127.0.0.1:32873
+1614989238460	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileFn5UZq"
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+[GFX1-]: glxtest: libpci missing
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614989261787	Marionette	INFO	Listening on port 41217
+1614989262256	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614989262380	Marionette	ERROR	[15] No reply from Marionette:Register
+1614989272155	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1614989286490	geckodriver	INFO	Listening on 127.0.0.1:59179
+1614989287646	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileinGLKv"
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: glxtest: libpci missing
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614989308246	Marionette	INFO	Listening on port 43393
+1614989308509	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614989308591	Marionette	ERROR	[15] No reply from Marionette:Register
+1614989319652	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1614989332261	geckodriver	INFO	Listening on 127.0.0.1:54681
+1614989333293	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileHCM12d"
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: glxtest: libpci missing
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614989351531	Marionette	INFO	Listening on port 34039
+1614989351915	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614989352066	Marionette	ERROR	[15] No reply from Marionette:Register
+1614989359354	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+1614989381936	geckodriver	INFO	Listening on 127.0.0.1:37555
+1614989382942	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile6YWY9C"
+[GFX1-]: glxtest: libpci missing
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614989399168	Marionette	INFO	Listening on port 44085
+1614989399570	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614989399782	Marionette	ERROR	[18] No reply from Marionette:Register
+JavaScript error: https://cdn.permutive.com/88ca3150-0f6f-482a-bbc1-2aa3276b3cab-web.js, line 1: Error: TypeError: Network request timed out
+JavaScript error: https://cdn.permutive.com/88ca3150-0f6f-482a-bbc1-2aa3276b3cab-web.js, line 1: Error: TypeError: Network request timed out
+JavaScript error: https://cdn.permutive.com/88ca3150-0f6f-482a-bbc1-2aa3276b3cab-web.js, line 1: Error: TypeError: Network request timed out
+JavaScript error: https://cdn.permutive.com/88ca3150-0f6f-482a-bbc1-2aa3276b3cab-web.js, line 1: Error: TypeError: Network request timed out
